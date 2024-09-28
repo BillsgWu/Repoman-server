@@ -1,7 +1,7 @@
 __pycache__
-outsettings
 instance
 migrations
 *.db
 *.pyc
 *test*
+secret.key
